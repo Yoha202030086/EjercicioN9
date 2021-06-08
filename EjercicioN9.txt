@@ -1,0 +1,12 @@
+InicioTemperaturas 
+  var T1
+  var T2
+ Escribir "pares temperaturas"
+ leer(temperaturas)
+ para T1>0 hasta T1=0 
+ Escribir "Escriba el valor de la temperatura"
+ leer n
+FinPara
+ prom = valor*(5/15)
+ Escribir "El prom de la temperatura es:"
+FinTemperaturas
